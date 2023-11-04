@@ -16,7 +16,7 @@
 - [BugBountyReportsExplained YouTube](https://www.youtube.com/@BugBountyReportsExplained)
 - [NahamSec YouTube](https://www.youtube.com/@NahamSec)
 - [STOKfredrik YouTube](https://www.youtube.com/@STOKfredrik)
-- [Unknown YouTube Channel](https://www.youtube.com/channel/UCyBZ1F8...IJPrLINFyA)
+- [RemonSec YouTube Channel](https://www.youtube.com/@remonsec)
 - [InsiderPhD YouTube](https://www.youtube.com/@InsiderPhD)
 
 ### Bug Bounty Hunter Twitter/Blog/etc
