@@ -28,5 +28,6 @@
 - [Twitter - ele7enxxh](https://twitter.com/ele7enxxh?lang=en)
 - [Twitter - orange_8361](https://twitter.com/orange_8361?lang=en)
 - [Twitter - godiego](https://twitter.com/_godiego__?lang=en)
+- [Twitter - RemonSec](https://twitter.com/remonsec)
 
 Good Luck! 😊🔒
