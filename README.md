@@ -8,6 +8,7 @@
 ### Public Bug Bounty/ Penetration Testing Reports
 - [GitHub - Reddelexc HackerOne Reports](https://github.com/reddelexc/hackerone-reports)
 - [GitHub - Juliocesarfort Public Pen-Testing Reports](https://github.com/juliocesarfort/public-pen-testing-reports)
+- [GitHub - OFD5 Bug Bounty](https://github.com/OFD5/Bugs-Reports)
 
 ### Bug Bounty Books
 - [GitHub - Akr3ch Bug Bounty Books](https://github.com/akr3ch/BugBountyBooks)
