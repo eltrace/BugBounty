@@ -1,5 +1,6 @@
 ### Public Bug Bounty Programs [Domain,Subdomain]
 - [GitHub - Trickest Inventory](https://github.com/trickest/inventory)
+- [GitHub - EdOverflow Inventory](https://github.com/EdOverflow/bugbountyguide/tree/master/programs)
 
 ### Public Bug Bounty Platforms Around The World
 - [Disclose.io Platforms](https://platforms.disclose.io/)
