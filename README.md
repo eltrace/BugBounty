@@ -13,6 +13,7 @@
 ### Bug Bounty Books
 - [GitHub - Akr3ch Bug Bounty Books](https://github.com/akr3ch/BugBountyBooks)
 - [GitHub - AnLoMinus Bug Bounty](https://github.com/AnLoMinus/Bug-Bounty)
+- [Fuzzing: Brute Force Vulnerability Discovery by Michael Sutton et al., 2007](http://www.fuzzing.org/)
 
 ### Bug Bounty YouTube Channels
 - [BugBountyReportsExplained YouTube](https://www.youtube.com/@BugBountyReportsExplained)
